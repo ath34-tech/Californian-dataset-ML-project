@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Machine Learning Pipeline with Scikit-Learn
 
 This project implements a comprehensive machine learning pipeline in Python using Scikit-Learn. It includes classes for data preprocessing, model training, evaluation, and fine-tuning.
